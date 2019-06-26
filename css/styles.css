@@ -1,0 +1,13 @@
+@import url('bootstrap.css');
+
+.sanii img{
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+span{
+    color: red;
+}
